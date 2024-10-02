@@ -14,3 +14,8 @@ I compare the different size of headers, it looks good!
 # print message in the parenthese
 print("Hello World!")
 ```
+
+## Task list demo
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
